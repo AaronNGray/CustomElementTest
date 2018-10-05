@@ -1,3 +1,5 @@
+const elementClasses = {};
+
 class BaseElement extends HTMLElement {
     constructor() {
         super();
